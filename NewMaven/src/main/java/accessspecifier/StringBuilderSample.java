@@ -1,4 +1,4 @@
-package String2;
+package accessspecifier;
 
 public class StringBuilderSample
    {
